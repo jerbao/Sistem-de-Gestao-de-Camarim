@@ -384,9 +384,9 @@ make run
 ```
 
 #### ⚙️ **Requisitos de Sistema:**
-- **Compilador:** g++ com suporte a **C++11** ou superior
+- **Compilador:** g++
 - **Sistema Operacional:** Linux | Windows
-- **Dependências:** Nenhuma biblioteca externa necessária (apenas STL padrão)
+- **Dependências:** Nenhuma biblioteca externa necessária
 
 ---
 
