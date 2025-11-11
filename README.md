@@ -3,7 +3,7 @@
 - **Instituição:** IMD
 - **Disciplina:** LP1
 - **Professor:** Prof. Jerffeson Gomes Dutra
-
+- **Autores:** Fábio Augusto Vieira de Sales Vila, Jerônimo Rafael Bezerra Filho e Yuri Wendel do Nascimento
   
 ## Atividade LP1 - Desenvolver uma aplicação funcional, utilizando os principais conceitos da programação orientada a objetos (POO). A aplicação deve conter um conjunto mínimo de funcionalidades que envolvam cadastro, consulta, alteração e remoção de dados (CRUD).
 
